@@ -1,0 +1,4 @@
+2:12:22 PM - compiled /Users/karoantonio/Documents/git/i-know-now/js/blog.coffee
+2:12:23 PM - compiled /Users/karoantonio/Documents/git/i-know-now/js/blog.coffee
+2:12:40 PM - compiled /Users/karoantonio/Documents/git/i-know-now/js/blog.coffee
+2:12:41 PM - compiled /Users/karoantonio/Documents/git/i-know-now/js/blog.coffee
